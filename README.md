@@ -6,3 +6,4 @@ pywin32模块 https://github.com/mhammond/pywin32/releases<br/>
 pyhook模块 https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 目前已经将python2和python3所写的两版打包为exe文件，建议优先尝试python2版，假如不行再用python3版本的。
+修改程序后，通过pyinstaller即可生成exe文件
